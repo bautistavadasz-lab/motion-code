@@ -1,0 +1,746 @@
+{
+ "dur": 53.233,
+ "fps": 30,
+ "falas": [
+  {
+   "id": "l1",
+   "voz": "narrador",
+   "texto": "Todas las noches, a las tres y diecisiete, mi teléfono suena.",
+   "tela": "celular_llamada",
+   "destaque": [
+    "tres",
+    "diecisiete"
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 0.7,
+   "fim": 4.562,
+   "palavras": [
+    {
+     "w": "Todas",
+     "ini": 0.7,
+     "fim": 1.0
+    },
+    {
+     "w": "las",
+     "ini": 1.0,
+     "fim": 1.12
+    },
+    {
+     "w": "noches,",
+     "ini": 1.12,
+     "fim": 1.66
+    },
+    {
+     "w": "a",
+     "ini": 1.76,
+     "fim": 2.0
+    },
+    {
+     "w": "las",
+     "ini": 2.0,
+     "fim": 2.14
+    },
+    {
+     "w": "tres",
+     "ini": 2.14,
+     "fim": 2.36
+    },
+    {
+     "w": "y",
+     "ini": 2.36,
+     "fim": 2.54
+    },
+    {
+     "w": "diecisiete,",
+     "ini": 2.54,
+     "fim": 3.0
+    },
+    {
+     "w": "mi",
+     "ini": 3.5,
+     "fim": 3.66
+    },
+    {
+     "w": "teléfono",
+     "ini": 3.66,
+     "fim": 4.08
+    },
+    {
+     "w": "suena.",
+     "ini": 4.08,
+     "fim": 4.44
+    }
+   ]
+  },
+  {
+   "id": "l2",
+   "voz": "narrador",
+   "texto": "Y la llamada viene... de mi propio número.",
+   "tela": "celular_numero",
+   "destaque": [
+    "propio",
+    "número"
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 4.912,
+   "fim": 7.412,
+   "palavras": [
+    {
+     "w": "Y",
+     "ini": 4.912,
+     "fim": 5.052
+    },
+    {
+     "w": "la",
+     "ini": 5.052,
+     "fim": 5.132
+    },
+    {
+     "w": "llamada",
+     "ini": 5.132,
+     "fim": 5.532
+    },
+    {
+     "w": "viene...",
+     "ini": 5.532,
+     "fim": 5.852
+    },
+    {
+     "w": "de",
+     "ini": 5.852,
+     "fim": 6.392
+    },
+    {
+     "w": "mi",
+     "ini": 6.392,
+     "fim": 6.532
+    },
+    {
+     "w": "propio",
+     "ini": 6.532,
+     "fim": 6.812
+    },
+    {
+     "w": "número.",
+     "ini": 6.812,
+     "fim": 7.172
+    }
+   ]
+  },
+  {
+   "id": "l3",
+   "voz": "narrador",
+   "texto": "Durante un mes no contesté. Anoche, contesté.",
+   "tela": "cuarto",
+   "destaque": [
+    "contesté."
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 7.962,
+   "fim": 11.55,
+   "palavras": [
+    {
+     "w": "Durante",
+     "ini": 7.962,
+     "fim": 8.402
+    },
+    {
+     "w": "un",
+     "ini": 8.402,
+     "fim": 8.542
+    },
+    {
+     "w": "mes",
+     "ini": 8.542,
+     "fim": 8.762
+    },
+    {
+     "w": "no",
+     "ini": 8.762,
+     "fim": 8.982
+    },
+    {
+     "w": "contesté.",
+     "ini": 8.982,
+     "fim": 9.582
+    },
+    {
+     "w": "Anoche,",
+     "ini": 10.022,
+     "fim": 10.662
+    },
+    {
+     "w": "contesté.",
+     "ini": 10.662,
+     "fim": 11.462
+    }
+   ]
+  },
+  {
+   "id": "l4",
+   "voz": "narrador",
+   "texto": "Del otro lado, alguien respiraba. Y entonces, con mi misma voz, me susurró:",
+   "tela": "celular_atendido",
+   "destaque": [
+    "respiraba.",
+    "mi",
+    "misma",
+    "voz,"
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 12.6,
+   "fim": 17.961,
+   "palavras": [
+    {
+     "w": "Del",
+     "ini": 12.6,
+     "fim": 12.8
+    },
+    {
+     "w": "otro",
+     "ini": 12.8,
+     "fim": 12.98
+    },
+    {
+     "w": "lado,",
+     "ini": 12.98,
+     "fim": 13.32
+    },
+    {
+     "w": "alguien",
+     "ini": 13.64,
+     "fim": 14.02
+    },
+    {
+     "w": "respiraba.",
+     "ini": 14.02,
+     "fim": 14.66
+    },
+    {
+     "w": "Y",
+     "ini": 15.1,
+     "fim": 15.46
+    },
+    {
+     "w": "entonces,",
+     "ini": 15.46,
+     "fim": 15.82
+    },
+    {
+     "w": "con",
+     "ini": 16.3,
+     "fim": 16.4
+    },
+    {
+     "w": "mi",
+     "ini": 16.4,
+     "fim": 16.56
+    },
+    {
+     "w": "misma",
+     "ini": 16.56,
+     "fim": 16.82
+    },
+    {
+     "w": "voz,",
+     "ini": 16.82,
+     "fim": 17.1
+    },
+    {
+     "w": "me",
+     "ini": 17.34,
+     "fim": 17.44
+    },
+    {
+     "w": "susurró:",
+     "ini": 17.44,
+     "fim": 17.86
+    }
+   ]
+  },
+  {
+   "id": "l5",
+   "voz": "narrador",
+   "texto": "No abras la puerta. Lo que está afuera... ya sabe tu nombre.",
+   "tela": "porta_aproxima",
+   "destaque": [
+    "puerta.",
+    "nombre."
+   ],
+   "sussurro": true,
+   "porta": false,
+   "ini": 18.361,
+   "fim": 22.318,
+   "palavras": [
+    {
+     "w": "No",
+     "ini": 18.361,
+     "fim": 18.581
+    },
+    {
+     "w": "abras",
+     "ini": 18.581,
+     "fim": 18.881
+    },
+    {
+     "w": "la",
+     "ini": 18.881,
+     "fim": 19.001
+    },
+    {
+     "w": "puerta.",
+     "ini": 19.001,
+     "fim": 19.301
+    },
+    {
+     "w": "Lo",
+     "ini": 19.841,
+     "fim": 20.001
+    },
+    {
+     "w": "que",
+     "ini": 20.001,
+     "fim": 20.121
+    },
+    {
+     "w": "está",
+     "ini": 20.121,
+     "fim": 20.321
+    },
+    {
+     "w": "afuera...",
+     "ini": 20.321,
+     "fim": 20.781
+    },
+    {
+     "w": "ya",
+     "ini": 20.781,
+     "fim": 21.401
+    },
+    {
+     "w": "sabe",
+     "ini": 21.401,
+     "fim": 21.681
+    },
+    {
+     "w": "tu",
+     "ini": 21.681,
+     "fim": 21.821
+    },
+    {
+     "w": "nombre.",
+     "ini": 21.821,
+     "fim": 22.041
+    }
+   ]
+  },
+  {
+   "id": "l6",
+   "voz": "narrador",
+   "texto": "Colgué. Y en ese momento, golpearon la puerta de mi cuarto.",
+   "tela": "cuarto_porta",
+   "destaque": [
+    "golpearon"
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 22.918,
+   "fim": 26.939,
+   "palavras": [
+    {
+     "w": "Colgué.",
+     "ini": 22.918,
+     "fim": 23.358
+    },
+    {
+     "w": "Y",
+     "ini": 23.838,
+     "fim": 24.158
+    },
+    {
+     "w": "en",
+     "ini": 24.158,
+     "fim": 24.258
+    },
+    {
+     "w": "ese",
+     "ini": 24.258,
+     "fim": 24.418
+    },
+    {
+     "w": "momento,",
+     "ini": 24.418,
+     "fim": 24.838
+    },
+    {
+     "w": "golpearon",
+     "ini": 24.838,
+     "fim": 25.778
+    },
+    {
+     "w": "la",
+     "ini": 25.778,
+     "fim": 25.938
+    },
+    {
+     "w": "puerta",
+     "ini": 25.938,
+     "fim": 26.178
+    },
+    {
+     "w": "de",
+     "ini": 26.178,
+     "fim": 26.398
+    },
+    {
+     "w": "mi",
+     "ini": 26.398,
+     "fim": 26.498
+    },
+    {
+     "w": "cuarto.",
+     "ini": 26.498,
+     "fim": 26.738
+    }
+   ]
+  },
+  {
+   "id": "l7",
+   "voz": "narrador",
+   "texto": "Tres golpes. Muy despacio.",
+   "tela": "porta_baixo",
+   "destaque": [
+    "Tres",
+    "golpes."
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 29.639,
+   "fim": 31.61,
+   "palavras": [
+    {
+     "w": "Tres",
+     "ini": 29.639,
+     "fim": 29.899
+    },
+    {
+     "w": "golpes.",
+     "ini": 29.899,
+     "fim": 30.359
+    },
+    {
+     "w": "Muy",
+     "ini": 30.659,
+     "fim": 30.939
+    },
+    {
+     "w": "despacio.",
+     "ini": 30.939,
+     "fim": 31.479
+    }
+   ]
+  },
+  {
+   "id": "l8",
+   "voz": "mama",
+   "texto": "Hijo... ábreme. Tengo miedo.",
+   "tela": "macaneta",
+   "destaque": [
+    "ábreme."
+   ],
+   "sussurro": false,
+   "porta": true,
+   "ini": 32.31,
+   "fim": 34.941,
+   "palavras": [
+    {
+     "w": "Hijo...",
+     "ini": 32.31,
+     "fim": 32.69
+    },
+    {
+     "w": "ábreme.",
+     "ini": 33.19,
+     "fim": 33.63
+    },
+    {
+     "w": "Tengo",
+     "ini": 33.85,
+     "fim": 34.05
+    },
+    {
+     "w": "miedo.",
+     "ini": 34.05,
+     "fim": 34.45
+    }
+   ]
+  },
+  {
+   "id": "l9",
+   "voz": "narrador",
+   "texto": "Era la voz de mi mamá. Pero mi mamá vive a trescientos kilómetros.",
+   "tela": "celular_mensagem",
+   "destaque": [
+    "trescientos",
+    "kilómetros."
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 35.641,
+   "fim": 39.575,
+   "palavras": [
+    {
+     "w": "Era",
+     "ini": 35.641,
+     "fim": 35.841
+    },
+    {
+     "w": "la",
+     "ini": 35.841,
+     "fim": 36.001
+    },
+    {
+     "w": "voz",
+     "ini": 36.001,
+     "fim": 36.181
+    },
+    {
+     "w": "de",
+     "ini": 36.181,
+     "fim": 36.361
+    },
+    {
+     "w": "mi",
+     "ini": 36.361,
+     "fim": 36.461
+    },
+    {
+     "w": "mamá.",
+     "ini": 36.461,
+     "fim": 37.221
+    },
+    {
+     "w": "Pero",
+     "ini": 37.221,
+     "fim": 37.501
+    },
+    {
+     "w": "mi",
+     "ini": 37.501,
+     "fim": 37.661
+    },
+    {
+     "w": "mamá",
+     "ini": 37.661,
+     "fim": 37.941
+    },
+    {
+     "w": "vive",
+     "ini": 37.941,
+     "fim": 38.101
+    },
+    {
+     "w": "a",
+     "ini": 38.101,
+     "fim": 38.301
+    },
+    {
+     "w": "trescientos",
+     "ini": 38.301,
+     "fim": 38.641
+    },
+    {
+     "w": "kilómetros.",
+     "ini": 38.641,
+     "fim": 39.381
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "voz": "narrador",
+   "texto": "Y el teléfono... volvió a sonar.",
+   "tela": "celular_de_novo",
+   "destaque": [
+    "volvió",
+    "a",
+    "sonar."
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 40.075,
+   "fim": 42.008,
+   "palavras": [
+    {
+     "w": "Y",
+     "ini": 40.075,
+     "fim": 40.215
+    },
+    {
+     "w": "el",
+     "ini": 40.215,
+     "fim": 40.315
+    },
+    {
+     "w": "teléfono...",
+     "ini": 40.315,
+     "fim": 40.875
+    },
+    {
+     "w": "volvió",
+     "ini": 40.875,
+     "fim": 41.555
+    },
+    {
+     "w": "a",
+     "ini": 41.555,
+     "fim": 41.655
+    },
+    {
+     "w": "sonar.",
+     "ini": 41.655,
+     "fim": 41.975
+    }
+   ]
+  },
+  {
+   "id": "l11",
+   "voz": "narrador",
+   "texto": "¿Qué hago? ¿Abro la puerta, o contesto el teléfono? Comenta A o B. Lo que elijan, pasa en la parte dos.",
+   "tela": "escolha",
+   "destaque": [
+    "A",
+    "B."
+   ],
+   "sussurro": false,
+   "porta": false,
+   "ini": 43.008,
+   "fim": 50.633,
+   "palavras": [
+    {
+     "w": "¿Qué",
+     "ini": 43.008,
+     "fim": 43.168
+    },
+    {
+     "w": "hago?",
+     "ini": 43.168,
+     "fim": 43.428
+    },
+    {
+     "w": "¿Abro",
+     "ini": 43.988,
+     "fim": 44.228
+    },
+    {
+     "w": "la",
+     "ini": 44.228,
+     "fim": 44.348
+    },
+    {
+     "w": "puerta,",
+     "ini": 44.348,
+     "fim": 44.668
+    },
+    {
+     "w": "o",
+     "ini": 44.668,
+     "fim": 45.228
+    },
+    {
+     "w": "contesto",
+     "ini": 45.228,
+     "fim": 45.728
+    },
+    {
+     "w": "el",
+     "ini": 45.728,
+     "fim": 45.808
+    },
+    {
+     "w": "teléfono?",
+     "ini": 45.808,
+     "fim": 46.308
+    },
+    {
+     "w": "Comenta",
+     "ini": 46.808,
+     "fim": 47.308
+    },
+    {
+     "w": "A",
+     "ini": 47.308,
+     "fim": 47.568
+    },
+    {
+     "w": "o",
+     "ini": 47.568,
+     "fim": 47.688
+    },
+    {
+     "w": "B.",
+     "ini": 47.688,
+     "fim": 47.868
+    },
+    {
+     "w": "Lo",
+     "ini": 48.368,
+     "fim": 48.468
+    },
+    {
+     "w": "que",
+     "ini": 48.468,
+     "fim": 48.608
+    },
+    {
+     "w": "elijan,",
+     "ini": 48.608,
+     "fim": 49.108
+    },
+    {
+     "w": "pasa",
+     "ini": 49.348,
+     "fim": 49.748
+    },
+    {
+     "w": "en",
+     "ini": 49.748,
+     "fim": 49.868
+    },
+    {
+     "w": "la",
+     "ini": 49.868,
+     "fim": 49.968
+    },
+    {
+     "w": "parte",
+     "ini": 49.968,
+     "fim": 50.168
+    },
+    {
+     "w": "dos.",
+     "ini": 50.168,
+     "fim": 50.448
+    }
+   ]
+  }
+ ],
+ "eventos": {
+  "atender": 11.55,
+  "desligar": 22.918,
+  "golpes": 26.939,
+  "pes": 29.639,
+  "macaneta": 34.941,
+  "toque_final": 42.008
+ },
+ "escolhas": {
+  "A": "ABRIR LA PUERTA",
+  "B": "CONTESTAR EL TELÉFONO"
+ },
+ "titulo": "La llamada de las 3:17",
+ "provisorio": false
+}
