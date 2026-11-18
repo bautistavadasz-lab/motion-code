@@ -46,6 +46,7 @@ if (still) {
   const pasta = resolve(args[args.indexOf("--still") + 2] || join(ep, "quadros"));
   await mkdir(pasta, { recursive: true });
   const { b, pg, info } = await abrir();
+  if (args.includes("--limpo")) await pg.evaluate(() => { window.SEM_LEGENDA = true; });
   console.log("tomadas", JSON.stringify(info.tomadas));
   for (const t of still.split(",").map(Number)) {
     const t0 = Date.now(); const j = await pg.evaluate((t) => window.jpeg(t, 0.9), t);

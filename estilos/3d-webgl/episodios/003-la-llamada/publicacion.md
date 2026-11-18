@@ -1,7 +1,7 @@
 # La llamada de las 3:17 · Parte 1: texto para publicar
 
 ## Título (YouTube Shorts)
-Mi teléfono me llama a las 3:17… desde MI número 📞😨 (Parte 1)
+Historia #1 · La llamada de las 3:17 · Parte 1 · Me llama MI propio número 📞😨
 
 ## Descripción / caption (Instagram, TikTok, YouTube)
 Todas las noches, a las 3:17, mi teléfono suena. La llamada viene de mi propio número.
@@ -13,7 +13,7 @@ Anoche contesté… y ahora alguien golpea la puerta de mi cuarto. 🚪
 
 👇 Comenta A o B. La más votada decide la PARTE 2.
 
-#historiasdeterror #terror #creepypasta #miedo #historiasdemiedo #suspenso #paranormal #3am #parte1 #tuelijes
+#historiasdeterror #terror #creepypasta #miedo #historiasdemiedo #suspenso #paranormal #3am #parte1 #tudecides #aob
 
 ## Comentario fijado (pinear apenas se publica)
 VOTA AQUÍ 👇 Responde este comentario con A (abrir la puerta) o B (contestar el teléfono). En 48 h cuento los votos y subo la Parte 2 🔔

@@ -590,6 +590,7 @@ function desenharLegenda(t, y0) {
 
 // ---------- sobreposições ----------
 function desenharTitulo(t) {
+  if (window.SEM_LEGENDA) return;
   ctx.save(); ctx.textAlign = "center";
   // selo PARTE 1 (sempre), título nos primeiros segundos
   const a = clamp(t / 0.3);
