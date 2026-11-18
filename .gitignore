@@ -34,3 +34,4 @@ __pycache__/
 *.log
 *.lock
 .DS_Store
+entrega-*/
