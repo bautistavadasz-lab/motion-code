@@ -65,7 +65,7 @@ const t0 = Date.now(); let feitos = 0;
 await Promise.all(fatias.map(async ([a, z], i) => {
   const { b, pg } = await abrir();
   const ff = spawn("ffmpeg", ["-y", "-loglevel", "error", "-f", "image2pipe", "-c:v", "mjpeg", "-framerate", String(fps), "-i", "-",
-    "-c:v", "libx264", "-preset", "medium", "-crf", "16", "-pix_fmt", "yuv420p", `${saida}.parte${i}.mp4`], { stdio: ["pipe", "inherit", "inherit"] });
+    "-c:v", "libx264", "-preset", "medium", "-crf", "14", "-pix_fmt", "yuv420p", `${saida}.parte${i}.mp4`], { stdio: ["pipe", "inherit", "inherit"] });
   for (let n = a; n < z; n++) {
     const j = await pg.evaluate((t) => window.jpeg(t, 0.93), n / fps);
     if (!ff.stdin.write(Buffer.from(j, "base64"))) await new Promise((r) => ff.stdin.once("drain", r));

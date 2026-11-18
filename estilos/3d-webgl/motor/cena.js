@@ -562,7 +562,7 @@ function desenharLegenda(t, y0) {
   else fonte = "Anton";
   ctx.font = `${tam}px "${fonte}"`;
   const pal = b.palavras.map((p) => { const txt = caixaAlta ? p.w.toUpperCase() : p.w; return { ...p, txt, larg: ctx.measureText(txt).width }; });
-  const esp = tam * 0.28, maxL = W - 140;
+  const esp = tam * 0.36, maxL = W - 140;
   const linhas = [[]]; let lx = 0;
   for (const p of pal) { if (lx + p.larg > maxL && linhas[linhas.length - 1].length) { linhas.push([]); lx = 0; } linhas[linhas.length - 1].push(p); lx += p.larg + esp; }
   linhas.forEach((ln, li) => {
@@ -571,7 +571,7 @@ function desenharLegenda(t, y0) {
     for (const p of ln) {
       const vis = t >= p.ini - 0.02;
       if (vis) {
-        const k = clamp((t - p.ini) / 0.12), pop = 1 + 0.18 * (1 - easeOut(k));
+        const k = clamp((t - p.ini) / 0.12), pop = 1 + 0.08 * (1 - easeOut(k));
         const tremor = f.sussurro ? ruido(t * 14, p.ini * 10) * 2.5 : 0;
         ctx.save(); ctx.translate(x + p.larg / 2 + tremor, y - tam * 0.35 + tremor); ctx.scale(pop, pop); ctx.translate(-p.larg / 2, tam * 0.35);
         ctx.globalAlpha = f.sussurro ? 0.4 + 0.6 * k : 0.3 + 0.7 * k;

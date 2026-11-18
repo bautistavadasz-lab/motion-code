@@ -14,7 +14,7 @@ node motor/capturar.mjs "$EP" "$EP/audio/video-mudo.mp4" --partes 3
 [ "$2" = "--provisorio" ] && { echo "Provisório: não entrega."; exit 0; }
 OUT="../../prontos/3d-webgl/$SLUG"; mkdir -p "$OUT"
 ffmpeg -y -loglevel error -i "$EP/audio/video-mudo.mp4" -i "$EP/audio/mix.wav" \
-  -map 0:v -map 1:a -c:v copy -c:a aac -b:a 256k -ar 48000 -shortest -movflags +faststart "$OUT/$SLUG-9x16.mp4"
+  -map 0:v -map 1:a -c:v libx264 -preset slow -crf 19 -maxrate 14M -bufsize 28M -pix_fmt yuv420p -c:a aac -b:a 256k -ar 48000 -shortest -movflags +faststart "$OUT/$SLUG-9x16.mp4"
 for f in voz-final efeitos trilha; do cp "$EP/audio/$f.wav" "$OUT/$SLUG-$f.wav"; done
 cp "$EP/roteiro.json" "$OUT/"
 echo "Entregue em $OUT"
